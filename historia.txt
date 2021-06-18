@@ -13,4 +13,10 @@ FIXING typo branch
 
 MAster 1 
 
+<<<<<<< HEAD
 MAIN 2
+=======
+Experimento 1
+
+Experimento 2
+>>>>>>> experiment
